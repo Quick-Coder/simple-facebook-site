@@ -1,0 +1,18 @@
+.media{
+    background-color: #dae0e5;
+}
+.media p{
+    color: black;
+}
+#leftFixed {
+    position: fixed;
+    width: 150px;
+    background-color: #DDD; 
+    font-size: 21px;
+    overflow-y: scroll;
+}
+
+#content {
+    position: relative;            
+    
+}
